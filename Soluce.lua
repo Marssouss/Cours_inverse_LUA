@@ -1,4 +1,4 @@
-x = {string='miaou'}
+x = {string='exo'}
 y = 3
 met = {
   __mul = function(lhs, rhs)
